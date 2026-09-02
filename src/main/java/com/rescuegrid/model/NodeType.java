@@ -1,0 +1,3 @@
+package com.rescuegrid.model;
+
+public enum NodeType { INTERSECTION, HOSPITAL, FIRE_STATION, POLICE_STATION, WAREHOUSE, RESIDENTIAL_AREA }
